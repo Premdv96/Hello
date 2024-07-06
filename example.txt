@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Hello boy Iam alright how about you
+=======
+Hell0 darling how are you doing 
+>>>>>>> refs/remotes/origin/master
